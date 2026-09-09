@@ -6,6 +6,12 @@ Este proyecto implementa una solución de Recuperación Aumentada por Generació
 
 ---
 
+## Video demostrativo:
+
+[![Video demostrativo](https://img.youtube.com/vi/Pa21BObDQwc/hqdefault.jpg)](https://youtu.be/Pa21BObDQwc
+
+---
+
 ## Estructura del Proyecto
 
 * **docker-compose.yml**: Definición del servicio de base de datos PostgreSQL con la extensión oficial pgvector (imagen `pgvector/pgvector:pg16`).
